@@ -1,0 +1,22 @@
+body{
+    background-color: peru;
+}
+
+.header, h1,p {
+    background-color: aquamarine;
+    padding-left:400px;
+}
+
+.info {background-color: brown;
+color: yellow;
+padding-left:300px;
+ }
+
+
+.pic {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  color:#967444; 
+}
