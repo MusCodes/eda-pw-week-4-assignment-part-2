@@ -2,7 +2,7 @@ body{
     background-color: peru;
 }
 
-.header, h1,p {
+header {
     background-color: aquamarine;
     padding-left:400px;
 }
